@@ -1,0 +1,20 @@
+Email,Status,Reason
+ayonroy014@gmail.com,invalid,rejected_email
+bwu@gamil.com,invalid,rejected_email
+123@gamil.com,invalid,rejected_email
+hr.outsourcing@ims.net.bd,error,"HTTPSConnectionPool(host='api.quickemailverification.com', port=443): Read timed out. (read timeout=20)"
+ipsita.reg@gmail.com,invalid,rejected_email
+pujamojumder@outlook.com,invalid,rejected_email
+wyiwiwyeuwiiw@gmail.com,invalid,rejected_email
+debaleena.reg@brainwareuniversity.ac.in,invalid,rejected_email
+reynando.andres@aprenergy.com,invalid,rejected_email
+foreignadmission@technoindiauniversity.ac.in,error,"HTTPSConnectionPool(host='api.quickemailverification.com', port=443): Read timed out. (read timeout=20)"
+sadeq@manamgewell.com.bd,invalid,invalid_domain
+nuenterp@gmail.com,invalid,rejected_email
+syed@managwell.com.bd,invalid,invalid_domain
+yasindra.perera@aprenergy.com,invalid,rejected_email
+abhishek.nandi@aisl.com.bd,invalid,rejected_email
+electrical@sspowerbd.com,invalid,rejected_email
+shormimig@gmail.com,unknown,temporarily_blocked
+info@runwaygroup.com.bd,invalid,invalid_domain
+abdulaziz.abdulmannan@aprenergy.com,invalid,rejected_email
